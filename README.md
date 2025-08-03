@@ -35,8 +35,8 @@ A production-ready FastAPI backend for audio transcription and AI summarization.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd voice-summary-api
+   git clone https://github.com/webcodelabb/Voice-to-Summary-AI-Notepad.git
+   cd Voice-to-Summary-AI-Notepad
    ```
 
 2. **Create virtual environment**
