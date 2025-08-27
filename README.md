@@ -232,5 +232,5 @@ MIT License - feel free to use this as a starting point for your projects!
 5. Submit a pull request
 
 ---
+**Built with ❤️ for developers who want to build amazing voice-to-text applications!** Fixing coauthor format
 
-**Built with ❤️ for developers who want to build amazing voice-to-text applications!** 
