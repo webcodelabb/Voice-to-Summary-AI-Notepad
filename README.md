@@ -61,7 +61,7 @@ A production-ready FastAPI backend for audio transcription and AI summarization.
    uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
    ```
 
-## 🔧 Configuration
+##  Configuration
 
 Create a `.env` file with the following variables:
 
@@ -84,7 +84,7 @@ PORT=8000
 DEBUG=true
 ```
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### 1. Transcribe Audio
 **POST** `/transcribe`
