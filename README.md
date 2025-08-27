@@ -145,7 +145,7 @@ curl -X POST "http://localhost:8000/summarize" \
   }'
 ```
 
-## 🔄 Complete Workflow
+##  Complete Workflow
 
 1. **Upload audio file** → Get transcription
 2. **Send transcription** → Get AI summary
