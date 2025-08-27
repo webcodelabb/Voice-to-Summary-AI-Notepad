@@ -233,4 +233,4 @@ MIT License - feel free to use this as a starting point for your projects!
 
 ---
 
-**Built with ❤️ for developers who want to build amazing voice-to-text applications!** 
+**Built with ❤️ for developers who want to build amazing voice-to-text applications!** Fixing coauthor format
