@@ -2,7 +2,7 @@
 
 A production-ready FastAPI backend for audio transcription and AI summarization. Upload audio files, get transcriptions, and receive intelligent summaries.
 
-## 🚀 Features
+##  Features
 
 - **Audio Transcription**: Support for MP3, WAV, and raw audio files
 - **AI Summarization**: Intelligent text summarization using OpenAI GPT or Hugging Face models
@@ -10,7 +10,7 @@ A production-ready FastAPI backend for audio transcription and AI summarization.
 - **Production Ready**: Async FastAPI with proper error handling
 - **Flexible Model Support**: Switch between OpenAI API and local models via environment variables
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 /voice-summary-api/
@@ -31,7 +31,7 @@ A production-ready FastAPI backend for audio transcription and AI summarization.
 └── .env.example
 ```
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
