@@ -161,7 +161,7 @@ curl -X POST "http://localhost:8000/summarize" \
 - **OpenAI GPT-4**: Best quality, requires API key
 - **Hugging Face BART**: Free, runs locally, good quality
 
-## 🔐 Authentication
+## Authentication
 
 This backend is designed to be easily extended with authentication. The `/auth/` module is left as a placeholder for future JWT or OAuth implementation.
 
