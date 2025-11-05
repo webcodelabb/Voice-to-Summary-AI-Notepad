@@ -1,3 +1,21 @@
+---
+title: Voice-to-Summary AI Notepad
+emoji: 🎙️
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.1.1
+app_file: app.py
+pinned: false
+license: mit
+
+Upload audio or record with your microphone to get transcriptions and concise summaries.
+
+Set the API_URL environment variable in your Space settings if you want this frontend
+to call a remote FastAPI backend for transcription/summarization. If `API_URL` is empty,
+the app will use a local dummy summarizer for testing.
+
+Check the Spaces docs: https://huggingface.co/docs/hub/spaces
 # Voice-to-Summary AI Notepad Backend
 
 A production-ready FastAPI backend for audio transcription and AI summarization. Upload audio files, get transcriptions, and receive intelligent summaries.
